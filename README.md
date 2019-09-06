@@ -1,4 +1,5 @@
 # hello-world
 its just a working repository
-welcome to devops training sessions
-today topic is github
+hai,this is jagadesh started working on github
+github contains master,branch
+welcome to devops training session
